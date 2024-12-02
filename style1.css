@@ -1,0 +1,86 @@
+.bgimg1 {
+  background-image: url(Background\ Images/HomePageBackground.jpg);
+  min-height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.bgimg2 {
+  background-image: url(Background\ Images/MondstatBackground.jpg);
+  min-height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.bgimg3 {
+  background-image: url(Background\ Images/LiyueBackground.png);
+  min-height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.bgimg4 {
+  background-image: url(Background\ Images/InazumaBackground.jpg);
+  min-height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.bgimg5 {
+  background-image: url(Background\ Images/SumeruBackground.jpg);
+  min-height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+video {
+  border-color: #002655;
+  border-style: solid;
+  border-width: 5px;
+}
+
+.container {
+  background-color: rgba(251, 251, 253, 0.7);
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 6%;
+  border-color: #002655;
+  border-style: solid;
+  border-width: 5px;
+  padding: 10px;
+  text-align: center;
+  font-family: Alata;
+}
+
+.button {
+  background-color:rgba(251, 251, 253, 0.7);
+  border-color: #002655;
+  border-style: solid;
+  text-align: center;
+  width: 100px;
+  height: 50px;
+  font-family: Alata;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.button:hover {
+  background-color: white;
+  border-width: 3px;
+}
+
+.choices {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 3%;
+  padding: 10px;
+  text-align: center;
+  font-family: Alata;
+}
+
+a {
+  text-decoration: none;
+}
+
